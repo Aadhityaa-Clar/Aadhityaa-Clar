@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aadhityaa-Clar
-- 👀 I’m interested in ... Block Chain
+- 👀 I’m interested in ... Block Chain, AI and object detection etc...
 - 🌱 I’m currently learning ... Solidity 
 - 📫 How to reach me ... aadhityaasb@clarbloc.com
 
